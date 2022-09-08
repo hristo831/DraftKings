@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftKings", "DraftKings\DraftKings.csproj", "{A1CBCE50-263A-43CE-9D5B-3400B7ECCE00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CBCE50-263A-43CE-9D5B-3400B7ECCE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CBCE50-263A-43CE-9D5B-3400B7ECCE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CBCE50-263A-43CE-9D5B-3400B7ECCE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CBCE50-263A-43CE-9D5B-3400B7ECCE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0E5E39-B65D-4CD3-A1AC-C61FA2010631}
+	EndGlobalSection
+EndGlobal
